@@ -1,0 +1,10 @@
+{
+	"miniprogramRoot": "./client",
+	"qcloudRoot": "./server",
+	"setting": {
+		"newFeature": true
+	},
+	"appid": "wxe2192bf1c03375fe",
+	"projectname": "wx-poll-mp",
+	"condition": {}
+}
